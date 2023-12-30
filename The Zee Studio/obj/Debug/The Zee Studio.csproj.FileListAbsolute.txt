@@ -1,0 +1,32 @@
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\Zee Music Studio\obj\Debug\The Zee Studio.csproj.AssemblyReference.cache
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\Zee Music Studio\obj\Debug\Zee_Music_Studio.Display.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\Zee Music Studio\obj\Debug\Zee_Music_Studio.Movie.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\Zee Music Studio\obj\Debug\Zee_Music_Studio.Welcome.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\Zee Music Studio\obj\Debug\Zee_Music_Studio.Properties.Resources.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\Zee Music Studio\obj\Debug\The Zee Studio.csproj.GenerateResource.cache
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\Zee Music Studio\obj\Debug\The Zee Studio.csproj.CoreCompileInputs.cache
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\Zee Music Studio\obj\Debug\The_Zee_Studio.Display.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\Zee Music Studio\obj\Debug\The_Zee_Studio.Movie.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\Zee Music Studio\obj\Debug\The_Zee_Studio.Welcome.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\Zee Music Studio\obj\Debug\The_Zee_Studio.Properties.Resources.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\obj\Debug\The Zee Studio.csproj.AssemblyReference.cache
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\obj\Debug\The_Zee_Studio.Display.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\obj\Debug\The_Zee_Studio.Movie.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\obj\Debug\The_Zee_Studio.Welcome.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\obj\Debug\The_Zee_Studio.Properties.Resources.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\obj\Debug\The Zee Studio.csproj.GenerateResource.cache
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\obj\Debug\The Zee Studio.csproj.CoreCompileInputs.cache
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\bin\Debug\The Zee Studio.exe.config
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\bin\Debug\The Zee Studio.exe
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\bin\Debug\The Zee Studio.pdb
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\obj\Debug\The Zee Studio.exe
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\The Zee Studio\obj\Debug\The Zee Studio.pdb
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\2020ICT65 - Assignment II\The Zee Studio\obj\Debug\The Zee Studio.csproj.AssemblyReference.cache
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\2020ICT65 - Assignment II\The Zee Studio\obj\Debug\The_Zee_Studio.Display.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\2020ICT65 - Assignment II\The Zee Studio\obj\Debug\The_Zee_Studio.Movie.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\2020ICT65 - Assignment II\The Zee Studio\obj\Debug\The_Zee_Studio.Welcome.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\2020ICT65 - Assignment II\The Zee Studio\obj\Debug\The_Zee_Studio.Properties.Resources.resources
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\2020ICT65 - Assignment II\The Zee Studio\obj\Debug\The Zee Studio.csproj.GenerateResource.cache
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\2020ICT65 - Assignment II\The Zee Studio\obj\Debug\The Zee Studio.csproj.CoreCompileInputs.cache
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\2020ICT65 - Assignment II\The Zee Studio\obj\Debug\The Zee Studio.exe
+E:\UOV\Year 2\Sem 1\Visual Programming\Assignment\2020ICT65 - Assignment II\The Zee Studio\obj\Debug\The Zee Studio.pdb
